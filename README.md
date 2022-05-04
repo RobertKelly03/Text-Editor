@@ -44,6 +44,6 @@ Click the license badge at the top of the ReadME to learn more about the license
 Questions
 Please contact me with any questions using either of the avenues below.
 
-Github URL: https://github.com/aungy5
+Github URL: https://github.com/RobertKelly03/Text-Editor
 
-Email: aungvary5@gmail.com
+Email: rk078701@gmail.com
